@@ -1,0 +1,6 @@
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\bin\Debug\Schoollib.dll
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\bin\Debug\Schoollib.pdb
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\obj\Debug\Schoollib.csproj.AssemblyReference.cache
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\obj\Debug\Schoollib.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\obj\Debug\Schoollib.dll
+C:\Mphasis\Simplilearn\Phase4\project\Schoollib\Schoollib\obj\Debug\Schoollib.pdb
